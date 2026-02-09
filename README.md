@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Generative AI / Machine Learning <br>🌱 I’m currently learning Reinforcement Learning and System Design for Machine Learning<br>📫 How to reach me: My email - "ichapuramhemanth@gmail.com" or Contact No - "+91 70931 99172"<br>😄 Pronouns: He / Him<br>⚡ Fun fact: If your code does fine , then don't even think how. IYKYK 
+🔭 I’m currently working on Generative AI / Machine Learning <br>🌱 I’m currently learning Reinforcement Learning and System Design for Machine Learning<br>📫 How to reach me: My email - "ichapuramhemanth@gmail.com" or Contact No - "+91 70931 99172"<br>😄 Pronouns: He / Him<br>⚡ Fun fact: If your code does fine , then don't better look back into it. IYKYK 
 
 
 ## 🌐 Socials:
